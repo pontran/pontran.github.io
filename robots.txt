@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pontran.github.io/sitemap.html.gz
+Sitemap: https://pontran.github.io/app/sitemap.html.gz
+Sitemap: https://pontran.github.io/assets/sitemap.html.gz
+Sitemap: https://pontran.github.io/css/sitemap.html.gz
+Sitemap: https://pontran.github.io/includes/sitemap.html.gz
+Sitemap: https://pontran.github.io/item/sitemap.html.gz
+Sitemap: https://pontran.github.io/src/sitemap.html.gz
